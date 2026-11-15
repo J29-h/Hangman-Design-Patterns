@@ -1,4 +1,5 @@
 # Compiled Java
+*.class
 # OS / IDE files
 .DS_Store
 .idea/
